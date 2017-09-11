@@ -1,0 +1,2 @@
+C:\Users\hhhhm\Desktop\Web_nodeJS-Unity_final\Web_NodeJS\Unity_final\obj\Debug\Unity_final.njsprojResolveAssemblyReference.cache
+C:\Users\hhhhm\Desktop\Web_nodeJS-Unity_final\Web_NodeJS\Unity_final\bin\Microsoft.NodejsTools.WebRole.dll
